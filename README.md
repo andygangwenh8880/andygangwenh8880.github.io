@@ -58,8 +58,8 @@ _NOTE: It may take up to a few minutes in order for your changes to be updated o
 ##### Duplicating the example
 
 * In the `projects` directory, make a copy of `example-project.html`. Name the file whatever you want, i.e. `cyoa.html`.
-  * To do this in the command line, simply use `cp example-project.html newFileName.html`
-* Customize as needed, using the example starter code and comments to guide you.
+  * To do this in the command line, simply use `cp example-project.html newFileName.html`*
+* Cutomize as needed, using the example starter code and comments to guide you.
 
 ##### Adding a link from the home page
 
